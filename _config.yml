@@ -13,6 +13,9 @@ disqus_shortname:
 # google analytics
 googleTrackId:
 
+# baidu analytics
+baiduTrackId:
+
 # growingio analytics
-growingioAnalyticsId:
+growingioTrackId:
 
