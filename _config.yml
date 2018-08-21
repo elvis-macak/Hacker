@@ -2,9 +2,12 @@ menu:
   Home: /
   Archives: /archives
 
-# duoshuo comment
-duoshuo: false
-duoshuo_name:
+# gitment
+gitment: false
+gitment_owner:
+gitment_repo:
+gitment_client_id:
+gitment_client_secret:
 
 # disqus comment
 disqus: false
